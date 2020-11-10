@@ -1,1 +1,6 @@
-Testaan toimiiko GitHubi
+Pöytäkirja
+
+Joona ja Vili backend
+Ilkka ja Pekka frontend
+
+lrbmfjdfgt2lb54u32ay5j33jzg4domv43lnd4gpkibqq3r6xgla azure git
